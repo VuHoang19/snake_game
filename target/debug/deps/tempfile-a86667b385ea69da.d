@@ -1,0 +1,12 @@
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/tempfile-a86667b385ea69da.rmeta: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/lib.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/dir.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/error.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/spooled.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/util.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/unix.rs
+
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/tempfile-a86667b385ea69da.d: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/lib.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/dir.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/error.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/spooled.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/util.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/unix.rs
+
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/lib.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/dir.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/error.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/mod.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/mod.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/spooled.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/util.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.2.0/src/file/imp/unix.rs:

@@ -1,0 +1,5 @@
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/num_iter-a2ba29558e465650.rmeta: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/num-iter-0.1.42/src/lib.rs
+
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/num_iter-a2ba29558e465650.d: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/num-iter-0.1.42/src/lib.rs
+
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/num-iter-0.1.42/src/lib.rs:

@@ -1,0 +1,13 @@
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/gif-7875fb29af470360.rmeta: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/libgif-7875fb29af470360.rlib: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/bigdata/Documents/projects/snake_game/target/debug/deps/gif-7875fb29af470360.d: /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs:
+/home/bigdata/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs:
